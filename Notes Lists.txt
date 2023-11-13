@@ -1,7 +1,6 @@
 * Imaginary numbers:
 	we represent them as "i" (imaginary unit) multiplied by a real number. Ex 3i
 
-
 *Complex number:
 	imaginary number + real number (a+bi). Ex 2+3i
 
