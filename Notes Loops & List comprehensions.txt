@@ -1,0 +1,11 @@
+* Print out in one line:
+	for x in my_list:
+    		print(x, end=' ') # print all on same line
+	
+* check upercase:
+	ex. <object>.isupper()
+
+* range():
+	ex. for i in range(5):
+    		print("This is . i =", i)
+	
